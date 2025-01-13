@@ -6,3 +6,5 @@ ESP-32 based project with a central display hub device and multiple sensor tag d
 
 
 Intended for use by commerical restauraunts. Recieved _Most Commercially Viable Project_. (Third place)
+
+courses.grainger.illinois.edu/ece445/hall-of-fame.asp
